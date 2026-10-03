@@ -17,7 +17,7 @@ import {
   WifiOff
 } from "lucide-react";
 
-const API_URL = "https://roman-burbot.com";
+const API_URL = "https://roman-bur-bot.onrender.com";
 
 const suggestions = [
   "Explain Python in simple words",
